@@ -1,0 +1,3 @@
+type,calendar skin
+name,MLP Calendar
+directory,mlp_calendar_od

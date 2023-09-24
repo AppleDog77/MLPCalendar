@@ -1,0 +1,75 @@
+charset,UTF-8
+
+//——— Basic information ———
+name,MLP Calendar
+craftman,Odie
+craftmanurl,https://odiesocean.wordpress.com
+
+//——— Table ———
+table.left,12
+table.top,77
+table.right,300
+table.bottom,268
+
+
+//——— Numbers ———
+day.pos.x,9
+day.pos.y,3
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,220
+year.pos.y,20
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,30
+today.pos.y,-2
+
+current.pos.x,0
+current.pos.y,-10
+
+
+//——— Event markers ———
+icon.left,1
+icon.top,21
+icon.right,41
+icon.bottom,41
+
+icon.width,10
+icon.height,10
+
+
+//——— Month names ———
+month.pos.x,30
+month.pos.y,20
+
+
+//——— Next & previous month buttons ———
+prev.left,83
+prev.top,269
+prev.right,107
+prev.bottom,293
+
+next.left,111
+next.top,269
+next.right,134
+next.bottom,293
+
+
+//——— Filenames ———
+day.filename,numbers/num
+saturday.filename,numbers/nums
+holiday.filename,numbers/numh
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg
